@@ -26,10 +26,6 @@ References
 “Selenium Webdriver: Modifying Navigator.webdriver Flag To Prevent Selenium Detection.” newbedev. Accessed September 11, 2021. https://newbedev.com/selenium-webdriver-modifying-navigator-webdriver-flag-to-prevent-selenium-detection.
 
 
-“Can a Website Detect When You Are Using Selenium With Chromedriver?.” Stackover flow. Accessed September 11, 2021. https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver.
-
-
-
 
 
 
